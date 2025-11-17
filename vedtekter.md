@@ -1,156 +1,179 @@
-# Vedtekter for IFI-dagen 
+# Vedtekter for IFI-Dagen
 
-Oppdatert etter generalforsamlingen 14. Mars 2025 
+Oppdatert etter generalforsamlingen 5. november 2025
 
-## §1 Formål 
+## §1 Formål
 
-### §1-1 Foreningens formål 
+### §1-1 Foreningens formål
 
-a. Ifi-dagen er en studentforening ved Institutt for informatikk (IFI) ved
-   Universitetet i Oslo (UiO).
+a. IFI-Dagen er en studentforening ved Institutt for Informatikk (heretter IFI)
+   ved Universitetet i Oslo (heretter UiO).
 
-b. Ifi-dagen skal jobbe for å skape kontakt mellom studenter ved Ifi og
+b. IFI-Dagen skal jobbe for å skape kontakt mellom studenter ved IFI og
    næringslivet, dette gjøres hovedsakelig gjennom å arrangere karrieredagen
-   dagen@ifi hver høst. 
+   dagen@ifi hver høst og ettermiddagen@ifi hver vår.
 
-### §1-2 dagen@ifi 
+### §1-2 dagen@ifi og ettermiddagen@ifi
 
-a. dagen@ifi skal være et arrangement for studentene ved Ifi. Arrangementet skal
-   strebe etter å engasjere studentene ved instituttet, profilere studentene og
-   informatikkmiljøet ved UiO overfor næringslivet og bidra til det sosiale
-   miljøet på Ifi. Arrangementet skal også gjennom et bredt faglig program vise
-   informatikkstudentene interessante sider av informatikkfaget. 
+a. dagen@ifi og ettermiddagen@ifi skal være arrangementer for studentene ved
+   IFI. Arrangementene skal ha som mål å:
 
-b. Styret skal innen 15. april annonsere dato for årets dagen@ifi. 
+* Engasjere studentene ved IFI.
+* Profilere studentene og informatikkmiljøet ved UiO overfor næringslivet.
+* Bidra til et sosialt og faglig miljø ved IFI.
 
-## §2 Foreningens ledelse og forvaltning 
+b. Styret skal innen 1. februar annonsere dato for årets ettermiddagen@ifi.
 
-### §2-1 Generalforsamlingen og dens myndighet 
+c. Styret skal innen 15. april annonsere dato for årets dagen@ifi.
 
-a. Ifi-dagen sin høyeste myndighet er dets generalforsamling. Ordinær
-   generalforsamling avholdes årlig, etter avholdt dagen@ifi og før utgangen av
-   det gjeldende året. Ekstraordinær generalforsamling avholdes når styret,
-   eller minst 30 registrerte studenter ved Ifi ønsker det. 
+## §2 Foreningens ledelse og forvaltning
 
-b. Alle studenter ved IFI er stemmeberettigede på generalforsamlingen. 
+### §2-1 Generalforsamlingen og dens myndighet
 
-c. Styret innkaller til ordinær generalforsamling med minst to ukers varsel. For
-   ekstraordinær generalforsamling minst en ukes varsel. 
+a. Generalforsamlingen er IFI-Dagens høyeste organ. Ordinær generalforsamling
+   avholdes årlig etter gjennomført dagen@ifi og innen utgangen av kalenderåret.
+   Ekstraordinær generalforsamling avholdes når styret, eller minst 30
+   registrerte studenter ved IFI, krever det.
+
+b. Studenter ved studieprogrammer tilknyttet IFI og studenter som tar IN-emner
+   (heretter IFI-studenter) har stemmerett på generalforsamlingen.
+
+c. Styret innkaller til ordinær generalforsamling med minst to ukers varsel, og
+   til ekstraordinær generalforsamling med minst én ukes varsel.
 
 d. Foreløpig dagsorden offentliggjøres minst en uke i forkant av ordinær
    generalforsamling. For ekstraordinær generalforsamling minst tre dager i
-   forkant. 
+   forkant.
 
-e. For at et vedtak på generalforsamlingen skal være gyldig, må det være minst
-   20 stemmeberettigede tilstede. 
+e. For at et vedtak på generalforsamlingen skal være gyldig, må minst 20
+   stemmeberettigede være til stede.
 
-f. Ved endringer av foreningens vedtekter kreves det 2/3 flertall blant de
-   tilstedeværende stemmeberettigede. 
+f. Endringer i vedtektene krever 2/3 flertall blant de tilstedeværende
+   stemmeberettigede.
 
 g. Forslag til vedtektsendringer skal være styret i hende senest 48 timer før
-   generalforsamling. 
+   generalforsamling.
 
-### §2-2 Valg av styre 
+h. Enhver må møte personlig for å benytte seg av sin stemmerett.
 
-a. Styret velges av generalforsamlingen, og skal bestå av studenter ved Ifi. 
+### §2-2 Valg av styre
 
-b. Et styremedlem er valgt inn for et helt kalenderår. 
+a. Styret velges av generalforsamlingen og skal bestå av studenter med
+   stemmerett på generalforsamlingen, jamfør §2-1, hvor planlagt sluttdato for
+   studieløpet tidligst kan være oktober påfølgende år.
 
-c. Styret skal minimum bestå av leder, økonomiansvarlig og bedriftsansvarlig, og
-   disse vervene kan kun velges på en generalforsamling. 
+b. Styremedlemmer velges for en periode på ett (1) kalenderår.
 
-d. Styret kan velge andre verv til valg før generalforsamlingen. 
+c. Styret skal minimum bestå av følgende verv:
 
-e. Dersom verv fra punkt d ikke er fylt etter generalforsamling, eller et
-   styremedlem fratrer (utenom leder og økonomiansvarlig), kan styret selv
-   etterfylle nye styremedlemmer som blir sittende til neste ordinære
-   generalforsamling. Leder og økonomiansvarlig må velges på ekstraordinær
-   generalforsamling. 
+* Leder
+* Nestleder
+* Økonomiansvarlig
+* Én (1) bedriftsansvarlig
 
-### §2-3 Styret og dets oppgaver 
+Disse vervene skal velges av generalforsamlingen og kan ikke etterfylles av
+styret selv.
 
-a. Styret er ansvarlig for Ifi-dagen sin virksomhet og for at foreningens
-   vedtekter følges. 
+d. Valg av styremedlemmer skjer ved preferansevalg.
 
-b. Styret er beslutningsdyktig dersom minst 2/3 av styremedlemmene er tilstede.
+e. Styret kan fylle øvrige verv etter behov.
 
-c. Styret avgjør saker med alminnelig flertall ved stemmegivning. Ved
-   stemmelikhet har styreleder to stemmer. 
+* Verv som ikke omfattes av punkt (c) kan etterfylles av styret utenfor
+  generalforsamling.
+* Dersom slike verv står ledige etter generalforsamlingen, eller dersom et
+  styremedlem i et slikt verv fratrer, kan styret selv foreta etterfylling. 
+* Etterfylte medlemmer sitter frem til neste ordinære generalforsamling.
 
-d. Styret kan gjøre redaksjonelle endringer på vedtektene. 
+f. Dersom et styremedlem som innehar et verv nevnt i punkt (c) fratrer, skal det
+   innkalles til ekstraordinær generalforsamling for å foreta nyvalg innen fire
+   (4) uker etter fratredelsen.
 
-## §3 Signaturrett 
+* Ved lederens fratreden, overtar nestleder midlertidig lederens oppgaver inntil
+  nytt valg er gjennomført.
+* Ved økonomiansvarligs fratreden skal styret umiddelbart sørge for forsvarlig
+  midlertidig forvaltning av foreningens økonomi inntil ny økonomiansvarlig er
+  valgt.
 
-### §3-1 Signering på vegne av Ifi-dagen 
+### §2-3 Styret og dets oppgaver
 
-a. Styreleder og ett styremedlem kan, i samsvar med hverandre, signere på vegne
-   av Ifi-dagen. 
+a. Styret er ansvarlig for IFI-dagen sin virksomhet og for at foreningens
+   vedtekter følges.
 
-b. De øvrige vervene kan signere på vegne av styret i saker som omhandler deres
-   verv, i samråd med styret. 
+b. Styret er beslutningsdyktig når minst 2/3 av styremedlemmene er til stede.
 
-## §4 Økonomi 
+c. Styret avgjør saker med alminnelig flertall. Ved stemmelikhet har styreleder
+   dobbeltstemme.
 
-### §4-1 Fordeling av overskudd 
+d. Styret kan gjøre redaksjonelle endringer i vedtektene, for eksempel rettelser
+   i språk eller formatering, uten å endre vedtektenes innhold.
 
-a. Ved innføring av nytt styre skal et eventuelt overskudd overføres til
-   Fordelingsutvalget ved Institutt for Informatikk, foruten summen av
-   budsjetterte kostnader for ettermiddagen, drift og vår-semesterets sosiale
-   midler. 
+## §3 Signaturrett
 
-b. Fordelte midler fra et eventuelt overskudd skal gå til formål som kommer
-   studentene og deres studentforeninger ved Institutt for informatikk til
-   gode. 
+a. Styreleder og ett styremedlem kan i fellesskap signere på vegne av Ifi-dagen
+   i alle saker.
 
-### §4-2 Informasjonsplikt 
+b. Øvrige styremedlemmer kan signere på vegne av foreningen i saker som direkte
+   angår deres verv, forutsatt samråd med styret.
 
-a. Ifi-dagen plikter å holde Fordelingsutvalget ved Ifi oppdatert med relevant
-   regnskapsinformasjon ved forespørsel og regnskapsavslutning. 
+## §4 Økonomi
 
-b. Ved forslag om endring av §4 skal Fordelingsutvalget ved Ifi informeres
-   skriftlig før generalforsamling. 
+### §4-1 Fordeling av overskudd
 
-## §5 Interne 
+a. Ved årsskifte skal et eventuelt overskudd overføres til en egen bankkonto,
+   foruten summen av budsjetterte kostnader godkjent av generalforsamlingen.
 
-a. Interne bistår styret med å planlegge og avholde arrangementene. 
+b. Pengene på denne kontoen skal fordeles fortløpende i henhold til vedtak gjort
+   i Fordelingsutvalget ved Institutt for Informatikk. Pengene skal fordeles til
+   formål som kommer studentene og studentforeninger ved Institutt for
+   Informatikk til gode.
 
-b. Ifi-studenter kvalifiserer til å bli intern i IFI-dagen. 
+### §4-2 Informasjonsplikt
 
-c. Interne godkjennes av styret. 
+a. IFI-dagen plikter å holde Fordelingsutvalget ved IFI oppdatert med relevant
+   regnskapsinformasjon ved forespørsel og regnskapsavslutning.
+
+b. Ved forslag om endring av §4 skal Fordelingsutvalget ved IFI informeres
+   skriftlig før generalforsamling.
+
+## §5 Interne
+
+a. Interne bistår styret med å planlegge og avholde arrangementene.
+
+b. IFI-studenter kvalifiserer til å bli intern i IFI-dagen.
+
+c. Interne godkjennes av styret.
 
 d. Interne velges for perioden det gjeldende styret sitter.
 
-g. Interne kan ved skriftlig beskjed til styret si fra seg sin internstilling
+e. Interne kan ved skriftlig beskjed til styret si fra seg sin internstilling
    med umiddelbar virkning.
 
-## §6 Alumni 
+## §6 Alumni
 
-a. Medlemmer i Ifi-dagen alumni er tidligere styremedlemmer. Ifi-dagen styre kan
-   oppnevne interne som har utmerket seg til alumni.
+a. Medlemmer i IFI-Dagen alumni er tidligere styremedlemmer. IFI-Dagen sitt
+   styre kan oppnevne interne som har utmerket seg til alumni.
 
-b. Ifi-dagen alumni er en selvorganisert undergruppe. 
+b. IFI-Dagen alumni er en selvorganisert undergruppe.
 
-c. Medlemmene i Ifi-dagen alumni har møte- og talerett på Ifi-dagens
+c. Medlemmene i IFI-Dagen alumni har møte- og talerett på IFI-Dagens
    generalforsamling, ved invitasjon fra sittende styre.
 
-## §7 Mistillit 
+## §7 Mistillit
 
 Mistillitsforslag overfor foreningens styremedlemmer skal behandles på
 generalforsamling, og krever 2/3 flertall for å bli vedtatt. Mistillitsforslag
-må fremmes senest 48 timer før generalforsamling. 
+må fremmes senest 48 timer før generalforsamling.
 
-## §8 Etikk og varsling 
+## §8 Etikk og varsling
 
 Foreningen skal så langt det er mulig vurdere miljømessige og etiske hensyn i
 planleggingen av aktiviteter. Skjer kritikkverdige forhold i foreningen eller
 under foreningens arrangementer så kan dette varsles i henhold til
 varslingsrutiner. Foreningen skal ha en oppdatert varslingsplakat,
 varslingsrutiner og etiske retningslinjer som alle medlemmer skal være kjent
-med. I tillegg må dere ha en paragraf om sanksjoner slik at det kort er
-beskrevet hva som kan bli konsekvensene ved brudd på vedtekter eller
-retningslinjer.
+med.
 
-## §9 Sanksjoner 
+## §9 Sanksjoner
 
 Ved brudd på norsk lov, foreningens vedtekter eller retningslinjer kan styret
 ilegge sanksjoner mot det aktuelle medlemmet. Sanksjoner kan inkludere, men er
@@ -159,27 +182,26 @@ eller i alvorlige tilfeller, eksklusjon fra foreningen. Alle sanksjoner skal
 besluttes av styret med et kvalifisert flertall på minst to tredjedeler. Vedtak
 av sanksjoner kan ankes til styret for ny behandling av saken.
 
-## §10 Oppløsning 
+## §10 Oppløsning
 
-### §10-1 Oppløsning av Ifi-dagen 
+### §10-1 Oppløsning av IFI-dagen
 
-For å gjennomføre foreslått oppløsning av Ifi-dagen som organisasjon, må det
-være 9/10 flertall blant de fremmøtte stemmeberettigede på 2
-generalforsamlinger. 
+Oppløsning av IFI-Dagen som organisasjon kan kun gjennomføres dersom det har
+blitt vedtatt med 9/10 flertall blant de fremmøtte stemmeberettigede på to (2)
+etterfølgende ordinære generalforsamlinger.
 
-### §10-2 Fordeling av midler ved oppløsning 
+### §10-2 Fordeling av midler ved oppløsning
 
-a. Ved oppløsning skal Ifi-dagen sine økonomiske midler og eiendeler overføres
-   til en konto disponibel for Fordelingsutvalget ved Ifi. 
+a. Ved oppløsning skal IFI-Dagen sine økonomiske midler og eiendeler overføres
+   til en konto disponibel for Fordelingsutvalget ved IFI.
 
-<!--Disse punktene hører til under a.-->
-* Styret plikter til å ha utarbeidet en investeringsplan for foreningens fond, i
+* Styret plikter til å utarbeide en investeringsplan for foreningens fond, i
   samarbeid med en økonomisk rådgiver. Investeringsplanen skal evalueres i
-  forkant av hver generalforsamling, og presenteres for studentene. 
+  forkant av hver generalforsamling, og presenteres for studentene.
 
 * Fondets formål skal være å sikre den økonomiske fremtiden til
-  studentforeninger ved Institutt for Informatikk. 
+  studentforeninger ved Institutt for Informatikk.
 
 b. Fordelte midler fra et eventuelt overskudd skal gå til formål som kommer
-   studentene og deres student foreninger ved Institutt for informatikk til
-   gode. 
+   studentene og studentforeninger ved Institutt for informatikk til gode.
+
