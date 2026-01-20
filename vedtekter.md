@@ -169,8 +169,9 @@ må fremmes senest 48 timer før generalforsamling.
 Foreningen skal så langt det er mulig vurdere miljømessige og etiske hensyn i
 planleggingen av aktiviteter. Skjer kritikkverdige forhold i foreningen eller
 under foreningens arrangementer så kan dette varsles i henhold til
-varslingsrutiner. Foreningen skal ha en oppdatert varslingsplakat,
-varslingsrutiner og etiske retningslinjer som alle medlemmer skal være kjent
+varslingsrutiner. Foreningen skal ha en oppdatert
+[varslingsplakat](varslingsplakat.md), varslingsrutiner og [etiske
+retningslinjer](etiske-retningslinjer.md) som alle medlemmer skal være kjent
 med.
 
 ## §9 Sanksjoner
